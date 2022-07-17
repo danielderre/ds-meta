@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@types/react-datepicker": "4.4.2",
+    "axios": "0.27.2",
     "react": "^18.2.0",
     "react-datepicker": "4.8.0",
     "react-dom": "^18.2.0"
@@ -19,6 +20,7 @@
     "@types/react-dom": "^18.0.6",
     "@vitejs/plugin-react": "^2.0.0",
     "typescript": "^4.6.4",
-    "vite": "^3.0.0"
+    "vite": "^3.0.0",
+    "webextension-polyfill": "^0.9.0"
   }
 }
